@@ -1,0 +1,10 @@
+pandas
+openpyxl
+streamlit
+requests
+numpy
+google-generativeai
+python-dotenv
+pillow
+pymupdf
+supabase

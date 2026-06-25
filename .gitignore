@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+
+# env
+.env
+
+# temp
+temp/
+
+# system
+.DS_Store
+Thumbs.db
